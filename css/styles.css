@@ -1,0 +1,40 @@
+body {
+
+}
+
+img {
+  margin: 20px;
+}
+
+.align-center {
+  text-align: center;
+  font-size: 12px;
+  color: blue;
+}
+
+/* Styles for wrapping the search box */
+
+.main {
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 50%
+}
+
+.bg-danger {
+  background-color: pink!important;
+}
+
+.bg-primary {
+  background-color: lightblue!important;
+}
+
+.bg-success {
+  background-color: lightgreen!important;
+}
+
+#logo {
+  margin: 20px;
+  width: 100px;
+}
